@@ -1,0 +1,17 @@
+.out{
+    height:1000px;
+    width:1000px;
+    background-color: rgb(16, 228, 196);
+    position: relative;
+}
+.in{
+    height:200px;
+    width: 200px;
+    background-color: rgb(182, 44, 139);
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+
+
+}

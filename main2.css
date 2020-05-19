@@ -1,0 +1,20 @@
+div{
+    height:200px;
+    width: 300px;
+    border:8px solid rgb(215, 75, 103);
+    background-color: rgb(28, 206, 206);
+    padding:20px;
+
+}
+/* .two{
+    position: relative;
+   bottom: 50px;
+} */
+/* .two{
+     position: absolute; // it refrences to it's parent //
+    top:50px;
+    left:50px;
+} */
+/* .two{
+    position:fixed; //it's position is fixed//
+} */
